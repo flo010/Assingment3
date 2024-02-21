@@ -1,6 +1,6 @@
 # vite-react-starter
 
-A basic starter template for building React apps in Vite.
+A basic starter template for building React apps with Vite.
 
 Create a new local app like this:
 
