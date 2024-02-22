@@ -5,7 +5,7 @@ A basic starter template for building React apps with Vite.
 Create a new local app like this:
 
 ```sh
-# Clone this repo
+# Fetch files from this repo
 npx tiged amannn/vite-react-starter <folderName>
 
 # Install dependencies
